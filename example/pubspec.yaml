@@ -44,7 +44,7 @@ dependency_overrides:
   dukastax_pkg:
     git:
       url: https://github.com/Ow3nso/dukastax_pkg.git
-      ref: master
+      ref: main
 
 dev_dependencies:
   flutter_test:
